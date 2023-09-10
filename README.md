@@ -22,13 +22,13 @@
 
 #### Граф двудольный
 
-![alt tag](https://github.com/Basharov1210/Bipartite_graph/blob/main/img/tet_true.png "Тестирование граф-двудольный")
+![alt tag](https://github.com/Basharov1210/Bipartite_graph/blob/main/img/test_true.png "Тестирование граф-двудольный")
 
 ![alt tag](https://github.com/Basharov1210/Bipartite_graph/blob/main/img/true.png "Рисунок двудольного графа")
 
 #### Граф двудольный
 
-![alt tag](https://github.com/Basharov1210/Bipartite_graph/blob/main/img/tet_false.png "Тестирование граф не двудольный")
+![alt tag](https://github.com/Basharov1210/Bipartite_graph/blob/main/img/test_false.png "Тестирование граф не двудольный")
 
 ![alt tag](https://github.com/Basharov1210/Bipartite_graph/blob/main/img/false.png "Рисунок не двудольного графа")
 
