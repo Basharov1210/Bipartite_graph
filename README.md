@@ -16,4 +16,4 @@
 
 Тестирование проведено на различных входных данных. Ошибок не найдено!
 
-(https://github.com/Basharov1210/Bipartite_graph/blob/main/img/Interface.png)https://github.com/Basharov1210/Bipartite_graph/blob/main/img/Interface.png)
+![alt tag](https://github.com/Basharov1210/Bipartite_graph/blob/main/img/Interface.png)https://github.com/Basharov1210/Bipartite_graph/blob/main/img/Interface.png "Интерфейс")
